@@ -1,0 +1,30 @@
+
+/* Hide the normal horizontal tabs */
+#TabsToolbar {
+display: none !important;
+}
+
+/* Hide the Sidebery/Firefox sidebar header */
+#sidebar-panel-header {
+display: none !important;
+}
+
+/* Remove extra sidebar spacing */
+#sidebar-box {
+padding-inline-start: 0px !important;
+}
+
+/* Keep window buttons visible on the navigation bar */
+#nav-bar > .titlebar-buttonbox-container {
+display: flex !important;
+}
+
+/* Remove rounded corners */
+* {
+    border-radius: 0px !important;
+}
+
+/* Hide the Bonjourr extension identity box */
+#identity-box.extensionPage:has(label[value*="Bonjourr"]) {
+display: none !important;
+}
