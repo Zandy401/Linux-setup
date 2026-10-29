@@ -1,0 +1,15 @@
+https://addons.mozilla.org/en-US/firefox/addon/single-file/
+https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/
+https://addons.mozilla.org/en-US/firefox/addon/darkreader/
+https://addons.mozilla.org/en-US/firefox/addon/firefox-color/
+https://addons.mozilla.org/en-US/firefox/addon/flagfox/
+https://addons.mozilla.org/en-US/firefox/addon/link-gopher/
+https://addons.mozilla.org/en-US/firefox/addon/namemc-extras/
+https://addons.mozilla.org/en-US/firefox/addon/proton-pass/
+https://addons.mozilla.org/en-US/firefox/addon/sidebery/
+https://addons.mozilla.org/en-US/firefox/addon/steam-database/
+https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/
+https://addons.mozilla.org/en-US/firefox/addon/letterboxd-extras/
+https://addons.mozilla.org/en-US/firefox/addon/volume-control-boost-volume/
